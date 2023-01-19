@@ -1,0 +1,11 @@
+com\edu\proyect\prueba\Model\repositorio\ListaReproduccionRepository.class
+com\edu\proyect\prueba\PruebaApplication.class
+com\edu\proyect\prueba\Service\GenericServiceImpl.class
+com\edu\proyect\prueba\Service\ListaReproduccionServiceImpl.class
+com\edu\proyect\prueba\Service\CancionService.class
+com\edu\proyect\prueba\Model\repositorio\CancionRepository.class
+com\edu\proyect\prueba\Model\Cancion.class
+com\edu\proyect\prueba\Model\ListaReproduccion.class
+com\edu\proyect\prueba\Service\ListaReproduccionService.class
+com\edu\proyect\prueba\Service\CancionServiceImpl.class
+com\edu\proyect\prueba\Service\GenericService.class
